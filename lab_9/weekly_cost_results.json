@@ -1,0 +1,33 @@
+{
+    "Total_Weekly_Cost_UAH": 21411.5,
+    "Cost_Per_Day": [
+        {
+            "Day": "Понеділок",
+            "Details_By_Day": 3683.5
+        },
+        {
+            "Day": "Вівторок",
+            "Details_By_Day": 3959.0
+        },
+        {
+            "Day": "Середа",
+            "Details_By_Day": 3560.2
+        },
+        {
+            "Day": "Четвер",
+            "Details_By_Day": 4009.5
+        },
+        {
+            "Day": "П'ятниця",
+            "Details_By_Day": 3837.8
+        },
+        {
+            "Day": "Субота",
+            "Details_By_Day": 1695.5
+        },
+        {
+            "Day": "Неділя",
+            "Details_By_Day": 666.0
+        }
+    ]
+}
