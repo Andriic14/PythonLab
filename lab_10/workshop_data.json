@@ -1,0 +1,67 @@
+{
+    "Part_Prices": {
+        "Type_A": 15.5,
+        "Type_B": 4.25,
+        "Type_C": 8.0,
+        "Type_D": 22.1,
+        "Type_E": 1.5
+    },
+    "Weekly_Production": [
+        {
+            "Day": "Понеділок",
+            "Type_A": 100,
+            "Type_B": 250,
+            "Type_C": 50,
+            "Type_D": 10,
+            "Type_E": 300
+        },
+        {
+            "Day": "Вівторок",
+            "Type_A": 110,
+            "Type_B": 230,
+            "Type_C": 60,
+            "Type_D": 15,
+            "Type_E": 310
+        },
+        {
+            "Day": "Середа",
+            "Type_A": 90,
+            "Type_B": 260,
+            "Type_C": 45,
+            "Type_D": 12,
+            "Type_E": 290
+        },
+        {
+            "Day": "Четвер",
+            "Type_A": 105,
+            "Type_B": 240,
+            "Type_C": 55,
+            "Type_D": 20,
+            "Type_E": 320
+        },
+        {
+            "Day": "П'ятниця",
+            "Type_A": 95,
+            "Type_B": 270,
+            "Type_C": 50,
+            "Type_D": 18,
+            "Type_E": 280
+        },
+        {
+            "Day": "Субота",
+            "Type_A": 50,
+            "Type_B": 100,
+            "Type_C": 20,
+            "Type_D": 5,
+            "Type_E": 150
+        },
+        {
+            "Day": "Неділя",
+            "Type_A": 10,
+            "Type_B": 12,
+            "Type_C": 14,
+            "Type_D": 15,
+            "Type_E": 11
+        }
+    ]
+}
